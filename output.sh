@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo WELCOME TO MY WORLD
+echo KALASH KOTWAL
+echo SYSTEM HEALTH
